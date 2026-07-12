@@ -1,6 +1,6 @@
 # Hi, I'm Devang Jagdale 👋
 
-**AI Engineer — LLM systems, retrieval, and agents.**
+**AI Engineer LLM systems, retrieval, and agents.**
 
 I work as a GenAI Developer with experience in LLMs, RAG, AI agents, and machine learning systems, and I’m deeply interested in AI infrastructure, inference optimization, and deployment. I enjoy building end-to-end AI products from idea to production and continuously explore and experiment with emerging AI frameworks and technologies.
 
