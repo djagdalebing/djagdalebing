@@ -20,6 +20,13 @@ I build generative AI systems from first principles: transformer internals, retr
 
 Each project implements its core algorithms directly (attention, BM25, RRF, LoRA, the agent loop) rather than importing them, and every number in every README comes from a real, reproducible run.
 
+## Applied Projects
+
+| Project | What it does |
+|---|---|
+| [**joy-smart-inbox**](https://github.com/djagdalebing/joy-smart-inbox) | An AI patient-message triage agent for an independent medical practice: LLM tool use with governance guardrails, Dockerized backend/frontend, deployable to Render. |
+| [**smart-contract-analyzer**](https://github.com/djagdalebing/smart-contract-analyzer) | An LLM-powered contract analyzer (TypeScript/React): upload a contract PDF and get clause extraction, risk flags, and plain-English summaries. |
+
 ## Focus Areas
 
 - **LLM internals** — transformer architecture, tokenization (BPE), sampling strategies, KV caching, parameter-efficient fine-tuning (LoRA)
