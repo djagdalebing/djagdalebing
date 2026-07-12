@@ -27,7 +27,7 @@ Each project implements its core algorithms directly (attention, BM25, RRF, LoRA
 
 ## Currently
 
-Exploring LLM evaluation methodology and inference-time optimization. Open to AI/ML engineering roles and collaborations.
+Exploring LLM evaluation methodology, LLM observability, and inference-time optimization. Open to AI/ML engineering roles and collaborations.
 
 ---
 
